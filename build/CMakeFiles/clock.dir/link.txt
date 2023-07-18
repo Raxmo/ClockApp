@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/clock.dir/home/max/Projects/CPP/ClockApp/src/main.cpp.o -o clock 

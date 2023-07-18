@@ -1,0 +1,7 @@
+/home/max/Projects/CPP/ClockApp/build/CMakeFiles/clock.dir
+/home/max/Projects/CPP/ClockApp/build/CMakeFiles/edit_cache.dir
+/home/max/Projects/CPP/ClockApp/build/CMakeFiles/rebuild_cache.dir
+/home/max/Projects/CPP/ClockApp/build/CMakeFiles/list_install_components.dir
+/home/max/Projects/CPP/ClockApp/build/CMakeFiles/install.dir
+/home/max/Projects/CPP/ClockApp/build/CMakeFiles/install/local.dir
+/home/max/Projects/CPP/ClockApp/build/CMakeFiles/install/strip.dir
